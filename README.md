@@ -35,7 +35,7 @@ As an aspiring ECE & programming student, I'm driven by a passion for exploring 
 - ECE and programming career paths and opportunities
 
 ## 📫 How to reach me
-Feel free to reach out to me for exciting opportunities or collaborations! You can connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or send me an email at your-email@example.com.
+Feel free to reach out to me for exciting opportunities or collaborations! You can connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or send me an email at upendrasai28@gmail.com.
 
 ## 😄 Pronouns
 He/Him
