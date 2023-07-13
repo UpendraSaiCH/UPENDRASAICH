@@ -2,8 +2,8 @@
 
 # Upendra Sai CH
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chillimunthaupendrasai/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:upendrasai28@gmail.com)
 
 ## About Me
 As an aspiring ECE & programming student, I'm driven by a passion for exploring the vast possibilities that technology offers. The art of crafting elegant code and harnessing it to create efficient devices fascinates me endlessly.
@@ -35,7 +35,7 @@ As an aspiring ECE & programming student, I'm driven by a passion for exploring 
 - ECE and programming career paths and opportunities
 
 ## 📫 How to reach me
-Feel free to reach out to me for exciting opportunities or collaborations! You can connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or send me an email at upendrasai28@gmail.com.
+Feel free to reach out to me for exciting opportunities or collaborations! You can connect with me on [LinkedIn](https://www.linkedin.com/in/chillimunthaupendrasai/) or send me an email at upendrasai28@gmail.com.
 
 ## 😄 Pronouns
 He/Him
