@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# UpendraSaiCH
+# Upendra Sai CH
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
